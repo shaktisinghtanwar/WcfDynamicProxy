@@ -1,0 +1,5 @@
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\IBusinessObject\bin\Debug\IBusinessObject.dll
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\IBusinessObject\bin\Debug\IBusinessObject.pdb
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\IBusinessObject\obj\Debug\IBusinessObject.csprojResolveAssemblyReference.cache
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\IBusinessObject\obj\Debug\IBusinessObject.dll
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\IBusinessObject\obj\Debug\IBusinessObject.pdb

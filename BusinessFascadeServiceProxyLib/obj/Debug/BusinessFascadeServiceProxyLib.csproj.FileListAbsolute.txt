@@ -1,0 +1,11 @@
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\bin\Debug\BusinessFascadeServiceProxyLib.dll
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\bin\Debug\BusinessFascadeServiceProxyLib.pdb
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\bin\Debug\IBusinessObject.dll
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\bin\Debug\IBusinessObject.pdb
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\obj\Debug\BusinessFascadeServiceProxyLib.dll
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\obj\Debug\BusinessFascadeServiceProxyLib.pdb
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\obj\Debug\BusinessFascadeServiceProxyLib.csprojResolveAssemblyReference.cache
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\bin\Debug\BusinessObject.dll
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\bin\Debug\Common.dll
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\bin\Debug\BusinessObject.pdb
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\BusinessFascadeServiceProxyLib\bin\Debug\Common.pdb

@@ -1,0 +1,16 @@
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\bin\Debug\BusinessFascadeClientApp.exe
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\bin\Debug\BusinessFascadeClientApp.pdb
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\bin\Debug\BusinessFascadeServiceProxyLib.dll
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\bin\Debug\IBusinessObject.dll
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\bin\Debug\BusinessFascadeServiceProxyLib.pdb
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\bin\Debug\IBusinessObject.pdb
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\obj\Debug\BusinessFascadeClientApp.csprojResolveAssemblyReference.cache
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\obj\Debug\BusinessFascadeClientApp.Form1.resources
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\obj\Debug\BusinessFascadeClientApp.Properties.Resources.resources
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\obj\Debug\BusinessFascadeClientApp.csproj.GenerateResource.Cache
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\obj\Debug\BusinessFascadeClientApp.exe
+C:\Users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\obj\Debug\BusinessFascadeClientApp.pdb
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\bin\Debug\Common.dll
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\bin\Debug\BusinessObject.dll
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\bin\Debug\Common.pdb
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\BusinessFascadeClientApp\bin\Debug\BusinessObject.pdb

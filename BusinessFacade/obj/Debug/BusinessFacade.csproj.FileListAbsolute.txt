@@ -1,0 +1,12 @@
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\bin\Debug\BusinessFacade.exe
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\bin\Debug\BusinessFacade.pdb
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\bin\Debug\BusinessObject.dll
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\bin\Debug\IBusinessObject.dll
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\bin\Debug\BusinessObject.pdb
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\bin\Debug\IBusinessObject.pdb
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\obj\Debug\BusinessFacade.csprojResolveAssemblyReference.cache
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\obj\Debug\BusinessFacade.Form1.resources
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\obj\Debug\BusinessFacade.Properties.Resources.resources
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\obj\Debug\BusinessFacade.csproj.GenerateResource.Cache
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\obj\Debug\BusinessFacade.exe
+c:\users\shakti\documents\visual studio 2013\Projects\DynamicProxyDemo\BusinessFacade\obj\Debug\BusinessFacade.pdb

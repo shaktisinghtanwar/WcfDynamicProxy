@@ -1,0 +1,7 @@
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\Common\bin\Debug\Common.dll
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\Common\bin\Debug\Common.pdb
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\Common\obj\Debug\Common.Properties.Resources.resources
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\Common\obj\Debug\Common.dll
+C:\Users\shakti\Documents\Visual Studio 2013\Projects\DynamicProxyDemo\Common\obj\Debug\Common.pdb
